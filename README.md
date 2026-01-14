@@ -107,50 +107,49 @@ StreetRiders is designed as a **professional car rental platform** similar to re
 <tr>
 <td align="center">
 <p><b>Hero Section</b></p>
-<img src="https://github.com/user-attachments/assets/4f8f0569-45e5-4058-bf80-b1b1d348df86" width="420">
+<img src="https://github.com/user-attachments/assets/135589db-7264-4ac6-9c00-593f198e74f3" width="420" />
 </td>
 
 <td align="center">
 <p><b>Brands Section</b></p>
-<img src="https://github.com/user-attachments/assets/4eaf15e4-5768-4d5d-a5b5-1ff9d2d2bea5" width="420">
+<img src="https://github.com/user-attachments/assets/7e49bdd5-c428-4241-8b06-e123f17b0eaf" width="420" />
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <p><b>Models Section</b></p>
-<img src="https://github.com/user-attachments/assets/8d71573c-fb83-4e2b-9ed4-a31c87583faa" width="420">
+<img src="https://github.com/user-attachments/assets/3f902d2c-8249-49e7-add3-0b7792fbd986" width="420" />
 </td>
 
 <td align="center">
 <p><b>Booking Window</b></p>
-<img src="https://github.com/user-attachments/assets/a7d4dd6a-3b36-463c-8824-b434bfba581d" width="420">
+<img src="https://github.com/user-attachments/assets/a3100367-93b6-482b-865d-0e4b36abd393" width="420" />
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <p><b>Signup / Login Page</b></p>
-<img src="https://github.com/user-attachments/assets/15916eaf-b830-46f1-9abb-42da482842aa" width="360">
+<img src="https://github.com/user-attachments/assets/2fe4d5fd-e114-4db8-9b7c-3bbb36c0d9b0" width="360" />
 </td>
 
 <td align="center">
 <p><b>Footer Section</b></p>
-<img src="https://github.com/user-attachments/assets/fdef586f-c9b8-4162-9307-d594db1495df" width="420">
+<img src="https://github.com/user-attachments/assets/9755f499-8879-421a-9341-a05365b34019" width="420" />
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <p><b>Backend – CMS View</b></p>
-<img src="https://github.com/user-attachments/assets/c406e8f2-18db-40f7-afee-7f0d61247e40" width="420">
+<img src="https://github.com/user-attachments/assets/e13bb0a8-c33b-43ba-b1bb-6deb7625c1ae" width="420" />
 </td>
 
 <td align="center">
 <p><b>Backend – Data Model</b></p>
-<img src="https://github.com/user-attachments/assets/ce13e601-5dc9-4fe5-9806-fd20aed19237" width="420">
+<img src="https://github.com/user-attachments/assets/cc07cffe-e9d5-4592-9e8b-e04bd9a35f99" width="420" />
 </td>
 </tr>
 </table>
-
 
